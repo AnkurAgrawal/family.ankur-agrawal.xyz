@@ -1,0 +1,1 @@
+import{E as e,b as s,i as o,j as a}from"./index-Cs5TfYef.js";const t={},c={class:"dashboard"},n=a("h1",null,"This is a dashboard page",-1),r=[n];function _(d,i){return s(),o("div",c,r)}const l=e(t,[["render",_]]);export{l as default};

@@ -1,0 +1,1 @@
+import{d as o,b as e,i as a,t as r}from"./index-Cs5TfYef.js";const s={class:"copyright"},i=o({__name:"FamilyCopyright",props:{author:{}},setup(p){return(t,n)=>(e(),a("p",s,"© "+r(t.author),1))}});export{i as default};
